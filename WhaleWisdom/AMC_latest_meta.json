@@ -1,8 +1,8 @@
 {
   "ticker": "AMC",
-  "period_end": "2016-09-30",
-  "generated_at": "2025-11-15T11:45:11.656485Z",
+  "period_end": "2016-06-30",
+  "generated_at": "2025-11-15T11:45:20.635093Z",
   "records": 316,
   "source": "WhaleWisdom API",
-  "note": "Institutional holdings for AMC as of 2016-09-30"
+  "note": "Institutional holdings for AMC as of 2016-06-30"
 }
