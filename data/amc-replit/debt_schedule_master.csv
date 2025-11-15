@@ -1,0 +1,8 @@
+instrument,type,coupon,maturity_date,amount_outstanding,call_schedule,notes
+"First Lien Notes 2026",secured,10.5,2026-04-24,429.3,No call provision,"Senior Secured First Lien Notes due 2026, secured by substantially all assets"
+"First Lien Notes 2029",secured,7.5,2029-02-15,800.0,Callable at 103.75% (2025),"Senior Secured First Lien Notes due 2029, callable premium declines 1.25% annually"
+"Second Lien Notes 2026",unsecured,10.0,2026-06-15,199.2,No call provision,"Senior Unsecured Second Lien Notes due 2026"
+"Convertible Notes 2026",convertible,0.0,2026-08-15,110.5,Convertible at $2.50/share,"0% Convertible Senior Notes due 2026, conversion price $2.50"
+"ABL Revolver Facility",secured,SOFR+3.5,2026-12-31,150.0,Revolving credit,"Asset-Based Lending Revolver, $500M total capacity, $150M drawn"
+"Equipment Finance Leases",lease,8.2,2025-2030,85.4,N/A,"Finance leases for theatre equipment and digital projectors"
+"Odeon Term Loan",secured,SOFR+4.0,2027-03-31,245.8,Callable with 2% premium,"Odeon Cinemas UK term loan facility, secured by UK assets"
