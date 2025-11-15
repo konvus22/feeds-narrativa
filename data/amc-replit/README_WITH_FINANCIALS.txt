@@ -19,4 +19,4 @@
 ✓ amcfinancials.json - 🆕 QUARTERLY & ANNUAL FINANCIAL STATEMENTS (12 quarters)
 ✓ README and manifest files - Analysis guides
 
-Generated: 20251115_0240
+Generated: 20251115_0241
